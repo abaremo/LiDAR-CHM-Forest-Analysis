@@ -1,4 +1,4 @@
-## Tree crown segmenation and classification using LiDAR-derived CHMs
+# Tree crown segmenation and classification using LiDAR-derived CHMs
 This repository contains R scripts developed as part of a master´s thesis at the University of Gävle. The workflow uses airborne LiDAR-derived canopy height models (CHMs) for preprosessing, tree crown segmentation, growth estimation, and classification of Scots pine trees with structural characteristics assiciated with older trees.
 
 ## Workflow overview
