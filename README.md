@@ -24,5 +24,5 @@ The workflow requires airborne LiDAR-derived canopy height models (CHMs), a digi
 
 ## Authors
 
-Clara Spik and Alexandra Bäremo  
+Alexandra Bäremo and Clara Spik  
 University of Gävle, Sweden
